@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Monica Mayumi Gushiken. I'm a brazilian girl (🇧🇷). I'm currently interested on learning about mobile development (especially Flutter) and Automated Testing. 
+My name is Monica Mayumi Gushiken. I'm a brazilian girl (🇧🇷). I'm currently interested on learning about software development and automated testing. 
 
 In my free time I like to make amigurumi - a Japanese word which describes small knitted or crocheted stuffed toys (👵), to watch series (📺), to study (📚), to listen and play some music (🎵🎸) and to stay with family and friends (❤️).
 
